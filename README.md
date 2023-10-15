@@ -1,8 +1,11 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVxOWg0Y3V5b21tYncyYW1wcXAwdGR6dWVhMThldjk2c2o1bHQ2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fx6Ynu2Hy1HYmsARdw/giphy-downsized-large.gif](https://media.giphy.com/media/ge5QIBdOJeEPTPJppU/giphy-downsized-large.gif)" width="100"/>
+  <img src= "https://giphy.com/clips/CARRB-military-national-guard-army-QHeKjbb7lnRDKjWbWT"/> 	
 </div>
 
-<div id="badges">
+
+
+
+<div id="badges" align="center">
   <a href="(https://www.linkedin.com/in/areesha-siddiqui-379344232/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B2zW8K6abQI%2B5ta6KY%2F3Lyw%3D%3D)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,16 +17,16 @@
   </a>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=Arcker &style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Arcker &style=flat-square&color=blue" alt="" align="center"/>
 
 <h1>
-  hey there
-  <img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canberratimes.com.au%2Fstory%2F7980537%2Fputting-hackers-out-of-business-easier-said-than-done%2F&psig=AOvVaw0-Dn9DRBZIPQpA7Alv95xC&ust=1697398188453000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICq-ZKj9oEDFQAAAAAdAAAAABAp)" width="1600px"/>
+  Hey there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6vqoviHHN0zGbJK3Fu3MVAI1FzRxgFb3Dqg&usqp=CAU)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6vqoviHHN0zGbJK3Fu3MVAI1FzRxgFb3Dqg&usqp=CAU" width="600" height="300"/>
+  <img src= "https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif" />
 </div>
 
 ---
@@ -38,7 +41,7 @@ I am a CyberSecurity Enthusiast <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: In my free time, I'm an Artist, I paint, and a chef.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Areesha-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/areesha-siddiqui-379344232/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B2zW8K6abQI%2B5ta6KY%2F3Lyw%3D%3D)")https://www.linkedin.com/in/areesha-siddiqui-379344232/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B2zW8K6abQI%2B5ta6KY%2F3Lyw%3D%3D)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Areesha-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/areesha-siddiqui-379344232/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B2zW8K6abQI%2B5ta6KY%2F3Lyw%3D%3D)")
 
 
 ---
@@ -50,4 +53,16 @@ I am a CyberSecurity Enthusiast <img src="https://media.giphy.com/media/WUlplcMp
    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 	 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 </div>
+
+
+
+---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=AreeshaSiddiqui29
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AreeshaSiddiqui29&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AreeshaSiddiqui29)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
